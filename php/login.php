@@ -18,6 +18,7 @@ include_once "header.php";
 if (isset($errorMsg))
     echo $errorMsg;
 ?>
+
 <h2>Login</h2>
 <form method="post">
     <div class="input">
